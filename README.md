@@ -10,7 +10,6 @@ Un progetto di visualizzazione e analisi esplorativa basato su dati chimici di v
 
 - `DATASET_COMPLETO_em.py` → Script Python per analisi e visualizzazione
 - `dataset/` → Dati originali dal repository UCI
-- `images/` → Grafici generati durante l'analisi
 - `Data Visualization - progetto.pptx` → Presentazione finale dei risultati
 
 ##  Tecnologie principali
